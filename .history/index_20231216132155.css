@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.parent-element{
+    background-color: #EFEFEF;
+    padding: 53px 0px 65px 73px;
+    min-height: 100vh;
+}
+h1{
+    color: #000;
+font-family: Roboto Slab;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 101.385%;
+margin-bottom: 44px;
+}
+.card{
+padding: 40px 46px 0 40px;
+    border-radius: 17.375px;
+background: #FFF;
+box-shadow: 0.579px 0.579px 11.583px 0px rgba(0, 0, 0, 0.25);
+width: 458.121px;
+width: 791px;
+height: 451px;
+flex-shrink: 0;
+
+}
+ h1{
+    color: #000;
+    font-family: Roboto Slab;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 101.385%; /* 55.762px */
+ }    
+ .text1{
+    color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 30px */
+padding-bottom: 35px;
+ }
+
+ .fc1{
+    width: 32px;
+    height: 31px;
+    flex-shrink: 0;
+ }
+ .girl{
+    padding-left: 30px;
+ }
+
+h2{
+color: #000;
+font-family: Roboto Slab;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 101.385%; /* 30.415px */
+padding-top: 45px;
+padding-bottom: 28px;
+}
+
+.card2{
+    display: flex;
+     
+}
